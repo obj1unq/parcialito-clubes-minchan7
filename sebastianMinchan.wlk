@@ -9,6 +9,7 @@ class Jugador inherits Socio{
 }
 
 class Club{
+	
 	var property valorConfigurable = 0
 	
 	method esEstrella(club,socio){
