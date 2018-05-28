@@ -1,5 +1,5 @@
 
-class Socio{
+class Socio {
 	
 }
 
